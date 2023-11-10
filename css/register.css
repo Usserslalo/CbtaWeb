@@ -1,0 +1,67 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    margin: 60px;
+    max-width: 85px;
+    max-width: 85px;
+    margin-bottom: 2px;
+}
+.tittle{
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+.text{
+    font-size: 40px;
+    text-align: center;
+}
+
+.linea-negra{
+    margin-bottom: 80px;
+    width: 280px;
+    height: 2px;
+    background-color: black;
+}
+.Administrador{
+    font-weight: bold;
+    display: block;
+    width: 250px;
+    font-family: 'volkhov';
+    font-weight: 900;
+    background-color: #387373;
+    border-radius: 45px;
+    padding: 15px 20px;
+    margin:auto;
+    color:#ffffff;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.Docente{
+    font-weight: bold;
+    display: block;
+    width: 250px;
+    font-family: 'volkhov';
+    font-weight: 900;
+    background-color: #93BFB7;
+    border-radius: 45px;
+    padding: 15px 20px;
+    margin:auto;
+    color:#ffffff;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.Alumno{
+    font-weight: bold;
+    display: block;
+    width: 250px;
+    font-family: 'volkhov';
+    font-weight: 900;
+    background-color: #97A6A0;
+    border-radius: 45px;
+    padding: 15px 20px;
+    margin:auto;
+    color:#ffffff;
+    text-decoration: none;
+}
